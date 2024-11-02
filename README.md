@@ -1,4 +1,4 @@
-Family Travel Tracker
+# Family Travel Tracker
 A web application to track the countries visited by family members. Each user can log in, track visited countries, and customize their profile with a unique color theme.
 Features
 •	User Management: Add family members with a custom profile color.
