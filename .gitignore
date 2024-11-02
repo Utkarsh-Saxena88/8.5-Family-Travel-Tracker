@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Database files
+*.sql
+
+# DS_Store files (macOS)
+.DS_Store
+
+# Config and settings
+*.config
+*.local
+
+# Generated files
+/public/build/
